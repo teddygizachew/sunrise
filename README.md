@@ -23,15 +23,12 @@ Amplication provides the following features:
 - Admin UI
 - Amplication console & CLI
 
-# Getting Started
+# Requirements
 
 You can get started with Amplication immediately on the Amplication Cloud. 
 
 Alternatively you can set up a local development environment.
 
-
-
-See [Amplication website](http://amplication.com/) or [Amplication docs](http://docs.amplication.com/) for more details.
 
 ## Tutorials 
 
@@ -107,27 +104,4 @@ Ask your questions and participate in discussions on Amplication-related and web
 ## Create a bug report
 
 If you see an error message or run into an issue, please [create bug report](https://github.com/amplication/amplication/issues/new?assignees=&labels=type%3A+bug&template=bug.yaml&title=%F0%9F%90%9B+Bug+Report%3A+). This effort is valued and helps all Amplication users.
-
-
-## Submit a feature request
-
-If you have an idea, or you're missing a capability that would make development easier and more robust, please [Submit feature request](https://github.com/amplication/amplication/issues/new?assignees=&labels=type%3A+feature+request&template=feature.yml).
-
-If a similar feature request already exists, don't forget to leave a "+1".
-If you add some more information such as your thoughts and vision about the feature, your comments will be embraced warmly :)
-
-
-# Contributing
-
-Amplication is an open-source project. We are committed to a fully transparent development process and appreciate highly any contributions. Whether you are helping us fix bugs, proposing new features, improving our documentation or spreading the word - we would love to have you as part of the Amplication community.
-
-# Useful Links
-
-- [Docs](https://docs.amplication.com/docs/)
-- [Blog](https://amplication.com/blog)
-- [Twitter](https://twitter.com/amplication)
-- [Discord](https://amplication.com/discord)
-- [Youtube](https://www.youtube.com/c/Amplicationcom)
-
-Please refer to our [Contribution Guidelines](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md).
 
