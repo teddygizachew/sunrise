@@ -6,7 +6,7 @@
 
 Sunrise auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
 
-# Features
+# Tools
 
 Amplication provides the following features:
 
@@ -30,12 +30,12 @@ You can get started with Amplication immediately on the Amplication Cloud.
 Alternatively you can set up a local development environment.
 
 
-## Tutorials 
+# Prototype 
 
 - Todo Application using Amplication and Angular. [Click here to access](https://docs.amplication.com/docs/tutorials/angular-todos/)
 - Todo Application using Amplication and React. [Click here to access](https://docs.amplication.com/docs/tutorials/react-todos/)
 
-## Amplication Cloud (SaaS)
+# Plan
 
 Launch Amplication from [app.amplication.com](http://app.amplication.com/)
 
@@ -74,8 +74,6 @@ npm run start
 npm run start
 ```
 
-
-
 ### Setting Up Amplication Manually
 
 You can use a manual step-by-step approach to set up Amplication in a local development environment. To do so, you should follow the following instructions for **Setting Up Amplication Server**, and **Setting Up Amplication Client**.
@@ -98,9 +96,4 @@ Amplication is currently in its version 1.  This is the first major release of A
 
 Ask your questions and participate in discussions on Amplication-related and web-dev topics at the Amplication Discord channel. 
 
-<a href="https://discord.gg/Z2CG3rUFnu"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
-
-## Create a bug report
-
-If you see an error message or run into an issue, please [create bug report](https://github.com/amplication/amplication/issues/new?assignees=&labels=type%3A+bug&template=bug.yaml&title=%F0%9F%90%9B+Bug+Report%3A+). This effort is valued and helps all Amplication users.
 
